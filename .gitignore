@@ -25,3 +25,5 @@ yarn.lock
 /node_modules/.yarn-integrity
 /.parcel-cache/
 /.vscode/
+.vagrant
+NUL
